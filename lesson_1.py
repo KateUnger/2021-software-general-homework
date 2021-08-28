@@ -7,3 +7,5 @@
 	# Is Active (named is_active)
 # Be sure to store each variable as the correct type!
 print("hi")
+print ("lol")
+print("hello")
